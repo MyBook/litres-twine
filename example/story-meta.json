@@ -1,0 +1,28 @@
+{
+  "description": "За что? Зачем?!",
+  "coverUrl": "https://picsum.photos/1000/466",
+  "authorsId": [
+    2
+  ],
+  "genresId": [
+    1,
+    2,
+    3
+  ],
+  "freeChaptersNumber": [
+    1
+  ],
+  "chapters": [
+    {
+      "name": "Dark corners"
+    },
+    {
+      "name": "Святой экзорцисццустс",
+      "storeProductId": "test"
+    },
+    {
+      "name": "Цена одной вечеринки",
+      "storeProductId": "test1"
+    }
+  ]
+}
